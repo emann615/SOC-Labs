@@ -1,4 +1,4 @@
-# SOC-Labs
+# SOC Labs
 
 ## Splunk Labs: Investigating Cyber Incidents
 

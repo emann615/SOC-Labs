@@ -1,6 +1,7 @@
 # SOC Labs
 
 ## Home SOC
+- [Home SOC Labs](https://github.com/emann615/SOC-Labs/tree/main/Home-SOC)
 
 ## Splunk
 - [Splunk Labs: Investigating Cyber Incidents](https://github.com/emann615/SOC-Labs/tree/main/Splunk)

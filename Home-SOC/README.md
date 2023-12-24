@@ -1,1 +1,1 @@
-# Home SOC Lab
+# Home SOC

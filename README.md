@@ -7,6 +7,7 @@
 - [Investigating with Splunk](https://github.com/emann615/Splunk-Labs-Investigating-Cyber-Attacks/blob/main/Labs/Investigating-with-Splunk.md)
 
 ## LetsDefend Alerts
+- [LetsDefend Alert Walkthroughs](https://github.com/emann615/SOC-Labs/tree/main/LetsDefend-Alert-Walkthroughs)
 
 ## Azure
 - [Microsoft Sentinel (SIEM) Lab](https://github.com/emann615/SOC-Labs/blob/main/Microsoft-Sentinel-Lab.md)

@@ -3,7 +3,7 @@
 ## Home SOC
 
 ## Splunk
-- [Splunk Labs: Investigating Cyber Attacks](https://github.com/emann615/SOC-Labs/tree/main/Splunk)
+- [Splunk Labs: Investigating Cyber Incidents](https://github.com/emann615/SOC-Labs/tree/main/Splunk)
 
 ## LetsDefend Alerts
 - [LetsDefend Alert Walkthroughs](https://github.com/emann615/SOC-Labs/tree/main/LetsDefend-Alert-Walkthroughs)
